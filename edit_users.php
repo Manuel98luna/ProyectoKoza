@@ -60,6 +60,7 @@ if (isset($_GET['edit_id'])) {
                         <input id="email" value="<?php echo $email; ?>" class="form-control" type="email" name="email">
                     </div><br>
                     <button class="btn btn-primary" name="btn-update" type="submit">Actualizar</button>
+                    <button class="btn btn-primary" name="btn-update" type="submit">Cancelar</button>
                 </form>
             </div>
 
