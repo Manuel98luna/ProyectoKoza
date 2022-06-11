@@ -63,7 +63,7 @@ if ($result_sql == 0) {
                         </div>
                         <div class="form-group">
                             <label for="telefono">Teléfono</label>
-                            <input type="number" placeholder="Ingrese Teléfono" name="telefono" class="form-control" id="telefono" value="<?php echo $telefono; ?>">
+                            <input type="text" placeholder="Ingrese Teléfono" name="telefono" class="form-control" id="telefono" value="<?php echo $telefono; ?>">
                         </div>
                         <div class="form-group">
                             <label for="direccion">Dirección</label>

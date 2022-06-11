@@ -108,7 +108,7 @@ if (!empty($_POST)) {
                     </div>
                     <div class="form-group">
                         <label for="telefono">Teléfono</label>
-                        <input type="number" placeholder="Ingrese Teléfono" name="telefono" id="telefono" class="form-control">
+                        <input type="text" placeholder="Ingrese Teléfono" name="telefono" id="telefono" class="form-control">
                     </div>
                     <div class="form-group">
                         <label for="direccion">Dirección</label>
